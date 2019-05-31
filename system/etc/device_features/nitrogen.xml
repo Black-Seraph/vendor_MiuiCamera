@@ -269,8 +269,8 @@
         <item>/system/data-app/MiuiDriveMode/MiuiDriveMode.apk</item>
     </string-array>
     <!-- whether camera support AI lens entry -->
-    <bool name="camera_support_ai_lens">true</bool>
-    <bool name="camera_supported_ai_scene">true</bool>
+    <bool name="camera_support_ai_lens">false</bool>
+    <bool name="camera_supported_ai_scene">false</bool>
     <!--whether show my device-->
     <bool name="support_my_device">true</bool>
     <!--whether round corner-->
